@@ -1,0 +1,8 @@
+"ZCity Optimized"
+{
+	"title"		"ZCity Optimized - Sandbox Edition"
+	"version"	"2.0.0"
+	"author"	"Optimized Fork"
+	"email"		"N/A"
+	"website"	"N/A"
+}

@@ -1,0 +1,10 @@
+"ZCity Optimized - Sandbox Edition"
+{
+	"title"		"ZCity Optimized - Sandbox Edition"
+	"type"		"gamemode"
+	"tags"		"sandbox, realistic, tactical, survival"
+	"ignore"	".git .gitignore *.md README* LICENSE* *.txt addon.txt"
+	"version"	"2.0.0"
+	"author"	"Optimized Fork"
+	"description"	"Lightweight, optimized fork of Z-City focused on Sandbox compatibility. Features: Organism system (health, bleeding, fractures, stamina), Grid-based inventory with weight, Advanced movement (prone, lean, slide, vault), Equipment/attachment system, Realistic weapon base with heat/dirt/jam mechanics. ~90% size reduction from original."
+}
